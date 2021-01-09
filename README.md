@@ -7,7 +7,7 @@ The Human Activity Recognition database was built from the recordings of 30 stud
 
 ## Objective:
 
-Develop an algorithm which will identify the artist when provided with a painting, with state of the art precision.
+To recognize and analyse daily human activities
 
 ### Dataset:
 
